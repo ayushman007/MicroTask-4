@@ -76,7 +76,7 @@ GET Request:
 
 POST Request:
 
-    /sign-up
+    /signup
 
 
 | Parameter | Type     | Description                |
